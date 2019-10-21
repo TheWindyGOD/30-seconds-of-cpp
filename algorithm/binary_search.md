@@ -19,6 +19,11 @@ int main() {
     std::cout << "\n The array is : "; 
     show(a, asize); 
   
+  
+  
+  
+  
+  
     std::cout << "\n\nLet's say we want to search for 2 in the array"; 
     std::cout << "\n So, we first sort the array"; 
     std::sort(a, a + asize); 
